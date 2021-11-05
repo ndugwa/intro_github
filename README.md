@@ -7,9 +7,10 @@
 <h1> heading 1 </h1>
 <h2> heading 2 </h1>
 <h3> heading 3 </h1>
+
 * group
- 
- - bullet
+
+- bullet
  
 *itelics* 
 
