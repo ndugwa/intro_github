@@ -38,4 +38,13 @@ this is introduction to github [pwani](https://www.pu.ac.ke/index.php/en/)
 
 :sleepy:
 
+# creating tables using markdown
+
+
+|ID | Name  | contact |
+|---| ---:|---------|
+|01 |henry |+256783516534|
+|02| wilson | +2567565778|
+|03|omar | +25689999339|
+|04| mark | +23458998|
 
